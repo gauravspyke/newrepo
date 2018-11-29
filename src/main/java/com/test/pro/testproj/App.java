@@ -12,6 +12,7 @@ public class App
 
     public static void main_temp( String[] args )
     {
+		print
         System.out.println( "Hello World!1" );
     }
 
@@ -32,6 +33,7 @@ public class App
 	
     public static void main( String[] args )
     {
+		dsfsdf
         System.out.println( "Hello World!1" );
     }	
 }
