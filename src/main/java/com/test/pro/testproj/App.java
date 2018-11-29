@@ -22,4 +22,16 @@ public class App
     }
 	
 	print("Debug")
+	
+	
+    public static void main_temp( String[] args )
+    {
+        System.out.println( "Hello World!1" );
+    }
+
+	
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!1" );
+    }	
 }
