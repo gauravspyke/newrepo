@@ -8,13 +8,11 @@ public class App
 {
 	
 	/**
-	*
 	* First comment
 	**/
     public static void main_temp( String[] args )
     {
 		System.out.println( "Hello World 1 !!!" );
-		System.out.println( "Hello World 4 !!!" );
     }
 	
 	public void test(String abc){
