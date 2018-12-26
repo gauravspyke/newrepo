@@ -21,6 +21,9 @@ public class App
 		int a = 10;
 		int b = 20;
 		int sum = a - b ;
+		int sumnew  = a + b;
+		int finalsum = sumnew;
+		System.out.println(finalsum);
 		System.out.println(sum);
 	}
 }
