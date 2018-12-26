@@ -14,6 +14,7 @@ public class App
     public static void main_temp( String[] args )
     {
         System.out.println( "Hello World!!!!" );
+		System.out.println( "Hello World 2 !!!" );
     }
 	
 	public void test(String abc){
