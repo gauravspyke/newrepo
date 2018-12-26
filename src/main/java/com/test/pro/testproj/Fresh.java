@@ -18,12 +18,14 @@ public class App
     }
 	
 	public void test(String abc){
-		int a = 10;
+		int a = 11;
 		int b = 20;
 		int sum = a - b ;
 		int sumnew  = a + b;
 		int finalsum = sumnew + 12;		
 		System.out.println(finalsum);
 		System.out.println(sum);
+		
+		
 	}
 }
