@@ -22,7 +22,7 @@ public class App
 		int b = 20;
 		int sum = a - b ;
 		int sumnew  = a + b;
-		int finalsum = sumnew;
+		int finalsum = sumnew + 12;		
 		System.out.println(finalsum);
 		System.out.println(sum);
 	}
