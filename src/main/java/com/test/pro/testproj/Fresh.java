@@ -5,8 +5,8 @@ package com.test.pro.testproj;
 class Test{
 	
 	public void prodd(){
-		int i = 0;
-		int k= 1;
+		int i = 2;
+		int k= 3;
 		int prod = i * k; 
 		print(prod);
 	}
@@ -30,9 +30,9 @@ public class App
 	
 	public void test(String abc){
 		int a = 19;
-		int b = 21;
+		int b = 22;
 		int sumnew  = a + b;
-		int finalsum = sumnew + 12;	
+		int finalsum = sumnew + 10;	
 		System.out.println( "Hello World 1 !!!" );
 		/* nothing */
 		System.out.println(finalsum);
