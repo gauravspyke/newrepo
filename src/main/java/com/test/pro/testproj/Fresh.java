@@ -2,14 +2,6 @@
 
 package com.test.pro.testproj;
 
-
-/**
-*
-*
-**/
-
-
-
 class Test{
 	
 	public void prodd(){
@@ -23,11 +15,6 @@ class Test{
 }
 
 
-
-/**
- * Test Fresh Class
- *
- */ 
 public class App 
 {
 	
@@ -37,15 +24,7 @@ public class App
 	**/
     public static void main_temp( String[] args )
     {
-		/**
-		*
-		*
-		*
-		*
-		*
-		*
-		*/
-		
+	
 		System.out.println( "Hello World  5 !!!" );
     }
 	
@@ -65,10 +44,6 @@ public class App
 	}
 	
 	public String getMeSomething(){
-		/**
-		*
-		*
-		*/
 		return "something";
 	}
 	
