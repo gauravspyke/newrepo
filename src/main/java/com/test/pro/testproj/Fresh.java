@@ -2,7 +2,8 @@ package com.test.pro.testproj;
 
 class Test{
 
-
+	static int i = 10;
+	String abc = "ahhs";
 
 	/**
 	*
@@ -29,7 +30,7 @@ public class App
 	**/
     public static void main_temp( String[] args )
     {
-	
+		System.out.println( "Hello World 1113 !!!" );
 		System.out.println( "Hello World 11 5 !!!" );
     }
 	
@@ -54,7 +55,8 @@ public class App
 		*
 		*
 		*
-		/
+		*/
+		int o = 10000;
 		return "something111";
 	}
 	
