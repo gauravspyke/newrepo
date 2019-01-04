@@ -2,8 +2,7 @@ package com.test.pro.testproj;
 
 class Test{
 
-	static int i = 10;
-	String abc = "ahhs";
+
 
 	/**
 	*
@@ -14,7 +13,6 @@ class Test{
 		int i = 2;
 		int k= 8;
 		int prod = i * k; 
-		print(prod);
 	}
 	
 	
@@ -48,12 +46,7 @@ public class App
 	}
 	
 	public String getMeSomething(){
-		/**
-		*
-		*
-		*
-		*
-		*/
+		String abc = "JAVA";
 		int o = 10000;
 		return "something111";
 	}
