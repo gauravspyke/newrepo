@@ -2,9 +2,10 @@ package com.test.pro.testproj;
 
 class Test{
 
-
-
 	/**
+	*
+	*
+	*
 	* Hello check comment
 	*
 	*/
@@ -22,15 +23,7 @@ class Test{
 public class App 
 {
 	
-	/**
-	*
-	* First comment
-	**/
-    public static void main_temp( String[] args )
-    {
-		System.out.println( "Hello World 1113 !!!" );
-		System.out.println( "Hello World 11 5 !!!" );
-    }
+
 	
 	public void test(String abc){
 		int a = 10;
