@@ -4,9 +4,7 @@ class Test{
 
 	/**
 	*
-	*
-	*
-	* Hello chec1 comment
+	* Hello chec comment
 	*
 	*/
 	
@@ -27,7 +25,9 @@ public class App
 	
 	public void test(String abc){
 		int a = 10;
-		int b = 21;
+		int b = 25;
+		
+		
 		int sumnew  = a + b;
 		int finalsum = sumnew + 10;	
 		System.out.println(finalsum);
