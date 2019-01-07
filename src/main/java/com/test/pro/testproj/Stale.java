@@ -6,7 +6,7 @@ class Test{
 	*
 	*
 	*
-	* Hello chec1 comment
+	* Hello check comment
 	*
 	*/
 	
