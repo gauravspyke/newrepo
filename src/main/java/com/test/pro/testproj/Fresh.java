@@ -5,7 +5,7 @@ class Test{
 
 
 	/**
-	*
+	* Hello check comment
 	*
 	*/
 	
@@ -33,7 +33,7 @@ public class App
     }
 	
 	public void test(String abc){
-		int a = 19;
+		int a = 10;
 		int b = 21;
 		int sumnew  = a + b;
 		int finalsum = sumnew + 10;	
@@ -46,7 +46,7 @@ public class App
 	}
 	
 	public String getMeSomething(){
-		String abc = "JAVA";
+		String abc = "JAVA1";
 		int o = 10000;
 		return "something111";
 	}
